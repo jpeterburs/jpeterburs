@@ -8,9 +8,8 @@
 
 ---
 
-![StealthyV1per's GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthyv1per&hide=stars&count_private=true&show_icons=true)
+[![StealthyV1per's GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthyv1per&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthyv1per)
-
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthyv1per&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
