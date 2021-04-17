@@ -1,15 +1,7 @@
 # Hi there, I'm Jonas 👋
 
-## I'm a Gamer, Nerd, and Developer!
-
-- Currently learing **Ruby on Rails**, **Python**, **JavaScript** and some **C**
-- In my freetime I mainly play some games, but sometimes I do code
+- Currently learing **Ruby on Rails**, **JavaScript** and some **C**
+- In my freetime I mainly play some games, and sometimes I code
 - Future Goal: Contribute to Open Source project
 
----
-
 [![StealthyV1per's GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthyv1per&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthyv1per&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
