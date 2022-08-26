@@ -1,7 +1,7 @@
 # Hi there, I'm Jonas 👋
 
-- Currently learing **Ruby on Rails**, **JavaScript** and some **C**
-- In my freetime I mainly play some games, and sometimes I code
-- Future Goal: Contribute to Open Source project
+- Always learning something new 🌱
+- In my freetime I mostly code, chill, and sometimes I play some games 👨‍💻
+- Future Goal: Contribute to more Open Source projects 🚀
 
-[![StealthyV1per's GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthyv1per&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![NGGYU](https://user-images.githubusercontent.com/39838608/186977583-47c497eb-1b8f-4854-adf2-96a1306b23a5.png#gh-light-mode-only)
