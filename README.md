@@ -1,16 +1,16 @@
-# Hi there, I'm Jonas 👋
+# Greetings, traveler! I am Jonas, a humble sorcerer of the arcane arts
 
-- Always learning something new 🌱
-- In my freetime I mostly code, chill, and sometimes I play some games 👨‍💻
-- Future Goal: Contribute to more Open Source projects 🚀
+- Ever in pursuit of new wisdom and knowledge
+- In the quiet hours, I conjure code, unwind with tranquil spells, and occasionally engage in the strategic realms of gaming
+- A vision for the future: To weave my magic into the fabric of Open Source projects, contributing to their growth and power
 
-## Things I care about include (but are not limited to)
+## The realms that capture my interest include (but are not bound by)
 
-- software development 👨‍💻
-- self-hosting ✨
-- most things computer related 🖥️
-- basic system administration (Linux) 🐧
-- video games (PC) 🎮
+- The mystic craft of software development
+- The art of self-hosting, a beacon of independence
+- All things enchanted by the essence of the computer
+- Mastery of fundamental system administration (Linux), the penguin’s path
+- The immersive worlds of video games, with a preference for the PC kingdom
 
 ---
 
